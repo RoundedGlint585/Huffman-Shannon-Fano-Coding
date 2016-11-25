@@ -1,4 +1,4 @@
-ffrom __future__ import print_function
+from __future__ import print_function
 from PIL import Image
 from numpy.lib.scimath import log2
 from operator import itemgetter
